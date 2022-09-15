@@ -1,0 +1,8 @@
+datadate: Date
+tic: Ticker (티커, 주식이름을 쉽게 표시한 약어)
+prccd: Close Price (Daily)
+prcod: Open Price (Daily)
+prchd: High Price (Daily)
+prcld: Low Price (Daily)
+ajexdi: Daily Adjustment Factor (일일 조정 계수)
+cshtrd: Common Shares Traded
