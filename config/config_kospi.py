@@ -15,7 +15,7 @@ number = 1
 
 TRAINED_MODEL_DIR = f"trained_models/trained_model_{data}_{agent}_{number}"
 result = f"result_{data}_{agent}_{number}"
-RESULT = f"results/{result}"
+RESULT = f"result/{result}"
 
 try:
     os.makedirs(TRAINED_MODEL_DIR)
