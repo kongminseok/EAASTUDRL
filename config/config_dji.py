@@ -18,7 +18,7 @@ number = 3
 #TRAINED_MODEL_DIR = f"trained_models/trained_model_{str(now.date())+'-'+str(now.hour)+'-'+str(now.minute)+'-'+str(now.second)}"
 TRAINED_MODEL_DIR = f"trained_models/trained_model_{data}_{agent}_{number}"
 result = f"result_{data}_{agent}_{number}"
-RESULT = f"result/{result}"
+RESULT = f"resultss/{result}"
 
 try:
     os.makedirs(TRAINED_MODEL_DIR)
