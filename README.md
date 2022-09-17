@@ -1,3 +1,4 @@
-# Empirical-Analysis-of-Automated-Stock-Trading-Using-DRL
+# Empirical Analysis of Automated Stock Trading Using Deep Reinforcement Learning
+paper Empirical Analysis of Automated Stock Trading Using Deep Reinforcement Learning
 ## Reference
 - https://github.com/AI4Finance-Foundation/FinRL-Live-Trading
