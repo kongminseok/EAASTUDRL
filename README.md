@@ -14,8 +14,13 @@ conda activate <env_name>
 cd EAASTUDRL
 pip install -r requirements.txt
 ```
+### Run
+```bash
+cd EAASTUDRL
+python run_DRL.py
+```
 
-## Reference
+## Baseline Reference
 ### Paper
 [Yang, Hongyang, et al. "Deep reinforcement learning for automated stock trading: An ensemble strategy." Proceedings of the first ACM international conference on AI in finance. 2020.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) 
 ### Github
