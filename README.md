@@ -9,7 +9,7 @@ sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zli
 ### Conda Virtual Environment Setting
 The requirements.txt file contains only the most basic libraries necessary for running the model. You may need to install additional libraries.
 ```bash
-conda create -n <env_name> python==3.7
+conda create -n <env_name> python=3.7
 conda activate <env_name>
 cd EAASTUDRL
 pip install -r requirements.txt
