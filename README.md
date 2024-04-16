@@ -24,9 +24,7 @@ python run_DRL_dji.py
 
 ## Baseline Reference
 ### Paper
-```
 [Yang, Hongyang, et al. "Deep reinforcement learning for automated stock trading: An ensemble strategy." Proceedings of the first ACM international conference on AI in finance. 2020.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)
-```
  
 ### Github
 [<img src="https://img.shields.io/badge/Github-222222?style=flate&logo=Github&logoColor=white"/>](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading)
