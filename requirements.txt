@@ -1,0 +1,9 @@
+opencv-python==4.0.0.21
+stable-baselines[mpi]
+tensorflow==1.15.4
+protobuf==3.20.0
+stockstats
+ipykernel
+
+
+
