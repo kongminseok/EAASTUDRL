@@ -2,11 +2,11 @@
 This repository offers codes for [MDPI Applied Sciences](https://www.mdpi.com/2076-3417/13/1/633#B10-applsci-13-00633)
 
 ## Ubuntu
-## Prerequisites
+### Prerequisites
 ```bash
 sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zlib1g-dev libgl1-mesa-glx
 ```
-## Conda Virtual Environment Setting
+### Conda Virtual Environment Setting
 ```bash
 conda create -n <env_name> python==3.7
 conda activate <env_name>
