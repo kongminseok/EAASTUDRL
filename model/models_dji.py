@@ -29,9 +29,9 @@ from stable_baselines import TRPO
 from stable_baselines import ACKTR
 
 # customized env
-from env.EnvMultipleStock_train_dji import StockEnvTrain
-from env.EnvMultipleStock_validation_dji import StockEnvValidation
-from env.EnvMultipleStock_trade_dji import StockEnvTrade
+from envs.EnvMultipleStock_train_dji import StockEnvTrain
+from envs.EnvMultipleStock_validation_dji import StockEnvValidation
+from envs.EnvMultipleStock_trade_dji import StockEnvTrade
 
 
 

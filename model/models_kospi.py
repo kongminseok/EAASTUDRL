@@ -29,9 +29,9 @@ from stable_baselines import TRPO
 from stable_baselines import ACKTR
 
 # customized env
-from env.EnvMultipleStock_train_kospi import StockEnvTrain
-from env.EnvMultipleStock_validation_kospi import StockEnvValidation
-from env.EnvMultipleStock_trade_kospi import StockEnvTrade
+from envs.EnvMultipleStock_train_kospi import StockEnvTrain
+from envs.EnvMultipleStock_validation_kospi import StockEnvValidation
+from envs.EnvMultipleStock_trade_kospi import StockEnvTrade
 
 
 

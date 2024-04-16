@@ -30,9 +30,9 @@ from stable_baselines import ACKTR
 
 
 # customized env
-from env.EnvMultipleStock_train_tse import StockEnvTrain
-from env.EnvMultipleStock_validation_tse import StockEnvValidation
-from env.EnvMultipleStock_trade_tse import StockEnvTrade
+from envs.EnvMultipleStock_train_tse import StockEnvTrain
+from envs.EnvMultipleStock_validation_tse import StockEnvValidation
+from envs.EnvMultipleStock_trade_tse import StockEnvTrade
 
 
 
