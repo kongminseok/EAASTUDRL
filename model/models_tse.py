@@ -20,7 +20,7 @@ from stable_baselines.common.vec_env import DummyVecEnv
 
 from preprocessing.preprocessors_tse import *
 from config import config_tse
-from config.config_tse import result
+from config.config_tse import RESULT
 
 import stable_baselines.td3.policies
 import stable_baselines.sac.policies
@@ -194,7 +194,7 @@ def DRL_prediction(df,
             last_state = env_trade.render()
 
     df_last_state = pd.DataFrame({'last_state': last_state})
-    df_last_state.to_csv('results/{}/tse_last_state_{}_{}.csv'.format(result, name, i), index=False)
+    df_last_state.to_csv('{}/last_state_{}_{}.csv'.format(RESULT, name, i), index=False)
     return last_state
 
 
@@ -207,7 +207,7 @@ def DRL_validation(model, test_data, test_env, test_obs) -> None:
 
 def get_validation_sharpe(iteration):
     ###Calculate Sharpe ratio based on validation results###
-    df_total_value = pd.read_csv('results/{}/tse_account_value_validation_{}.csv'.format(result,iteration), index_col=0)
+    df_total_value = pd.read_csv('{}/account_value_validation_{}.csv'.format(RESULT,iteration), index_col=0)
     df_total_value.columns = ['account_value_train']
     df_total_value['daily_return'] = df_total_value.pct_change(1)
     sharpe = (4 ** 0.5) * df_total_value['daily_return'].mean() / \
