@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ### Run
 ```bash
-cd EAASTUDRL/run
+cd EAASTUDRL
 python run_DRL_dji.py
 # python run_DRL_kospi.py
 # python run_DRL_tse.py
