@@ -11,9 +11,13 @@
     <sup>1</sup>Sogang University&emsp; 
 </div>
 
+<div>
+    <h4 align="center">
+        • <a href="https://www.mdpi.com/2076-3417/13/1/633#B10-applsci-13-00633" target='_blank'>[paper]</a> •
+    </h4>
 </div>
 
-This repository offers codes for [MDPI Applied Sciences](https://www.mdpi.com/2076-3417/13/1/633#B10-applsci-13-00633)
+</div>
 
 
 ## Ubuntu
@@ -43,4 +47,3 @@ python run_DRL_dji.py
  
 ### Github
 [<img src="https://img.shields.io/badge/Github-222222?style=flate&logo=Github&logoColor=white"/>](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading)
-
