@@ -42,4 +42,4 @@ python run_DRL_dji.py
 ```
 
 ## Acknowledgement
-This implementation is based on a [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) and [github](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading). Thanks for the awesome work.
+This implementation is based on a [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) and [GitHub repo](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading). Thanks for the great work.
