@@ -4,7 +4,7 @@
 
 <div>
     <a href='https://github.com/kongminseok' target='_blank'>Minseok Kong</a><sup>1</sup>&emsp;
-    <a href='https://github.com/Daye-Lee18' target='_blank'>Jungmin So</a><sup>1</sup>&emsp;
+    <a href='https://icslsogang.github.io/' target='_blank'>Jungmin So</a><sup>1</sup>&emsp;
 </div>
 
 <div>
