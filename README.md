@@ -1,5 +1,20 @@
-# Empirical Analysis of Automated Stock Trading Using Deep Reinforcement Learning
+<div align="center">
+
+<h1>Empirical Analysis of Automated Stock Trading Using Deep Reinforcement Learning</h1>
+
+<div>
+    <a href='https://github.com/kongminseok' target='_blank'>Minseok Kong</a><sup>1</sup>&emsp;
+    <a href='https://github.com/Daye-Lee18' target='_blank'>Jungmin So</a><sup>1</sup>&emsp;
+</div>
+
+<div>
+    <sup>1</sup>Sogang University&emsp; 
+</div>
+
+</div>
+
 This repository offers codes for [MDPI Applied Sciences](https://www.mdpi.com/2076-3417/13/1/633#B10-applsci-13-00633)
+
 
 ## Ubuntu
 ### Prerequisites
