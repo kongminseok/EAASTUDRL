@@ -20,7 +20,7 @@
 </div>
 
 
-## Ubuntu
+## Ubuntu Installation
 ### Prerequisites
 ```bash
 sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zlib1g-dev libgl1-mesa-glx
@@ -41,9 +41,5 @@ python run_DRL_dji.py
 # python run_DRL_tse.py
 ```
 
-## Baseline Reference
-### Paper
-[Yang, Hongyang, et al. "Deep reinforcement learning for automated stock trading: An ensemble strategy." Proceedings of the first ACM international conference on AI in finance. 2020.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)
- 
-### Github
-[<img src="https://img.shields.io/badge/Github-222222?style=flate&logo=Github&logoColor=white"/>](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading)
+## Acknowledgement
+This implementation is based on a [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) and [github](https://github.com/AI4Finance-Foundation/FinRL-Live-Trading). Thanks for the awesome work.
